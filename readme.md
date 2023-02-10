@@ -2,6 +2,14 @@
 
 Repozytorium zawiera kod źródłowy ``jupyter notebook`` na potrzeby zajęc na Uniwersytecie Ekonomicznym w Krakowie.   
 
+## Zagadnienia
+
+1. Wprowadzenie do python na potrzeby analizy tekstu
+2. Odczytywanie danych tekstowych z różnych źródeł
+3. Zagadnienia przetwarzania języka naturalnego
+4. Klasyfikacja tekstu
+5. Analiza sentymentu
+6. Generowanie tekstu
 
 ## Materiały dodatkowe
 
