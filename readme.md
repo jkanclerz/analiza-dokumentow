@@ -18,9 +18,12 @@ Repozytorium zawiera kod źródłowy ``jupyter notebook`` na potrzeby zajęc na 
     * https://docs.python.org/3.10/library/
 
 
-### Python wprowadzenie
+### Kursy
 
     * https://github.com/jkanclerz/intro-to-python.git
+    * https://github.com/jkanclerz/data-science-workshop-2022
+
+
 
 ### Code catas
 
